@@ -1,0 +1,1 @@
+# Hand-Detector-Code-Bar-Using-OpenCV-Mediapipe
