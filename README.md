@@ -17,3 +17,7 @@
 
 *Step 5: Run and Test*
 **Run the code and test the hand detector control bar. Open your Jupyter Notebook, execute the cells, and observe the distance displayed on the screen as you move your hand.**
+
+https://github.com/Tanwar-12/Hand-Detector-Code-Bar-Using-OpenCV-Mediapipe/assets/110081008/d304d014-cec3-4c1b-8193-507d36ac3dbb
+
+
